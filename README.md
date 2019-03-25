@@ -12,6 +12,8 @@
 
 - Press a random letter to see a random colored circle with sound
 
+# toDo
+Errors in console
 # Status
-finished
+inProgress
 
