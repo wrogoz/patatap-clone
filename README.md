@@ -1,5 +1,5 @@
 # patatap-clone
-- A simple app which I make for my daughter with some tutorials help.
+- A simple app which I make for my daughter with some tutorials.
   
 
 # Technologies: 
